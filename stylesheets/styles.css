@@ -177,9 +177,10 @@ hr {
 }
 
 footer {
-  width:70px;
+  width:270px;
   float:left;
   position:fixed;
+  left:-270px;
   bottom:10px;
 }
 
